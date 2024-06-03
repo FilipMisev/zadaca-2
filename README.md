@@ -1,6 +1,8 @@
 # zadaca-2
 To initialize the 8155/56 component so that the RAM occupies space 4800h–48FFh. Port A to be initialized as a gated input port, and B as a normal output port. The timer counts a train of short pulses with T = 1ms. (f=4MHZ).
+
  ![Screenshot (1)](https://github.com/FilipMisev/zadaca-2/blob/main/2.png)
+
 
 CSR 01001 000
 PA 01001 001
